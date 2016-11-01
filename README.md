@@ -1,5 +1,7 @@
 # spring-cdc
-Spring Cloud Contract
+Spring Consumer driven contracts - clientside
+
+Serverside: https://github.com/tjololo/spring-cdc-server
 
 ##links
 https://cloud.spring.io/spring-cloud-contract/spring-cloud-contract.html
